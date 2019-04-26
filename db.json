@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "user": "vikilastiri",
+            "email": "vikilastiri@gmail.com",
+            "password": "$2y$10$JLGXdSmZT2tvOrcNiNu0Q.0i7Z\/KJs2Ezmv.ZZyUNLrXRtOM6mKIG"
+        },
+        {
+            "id": 2,
+            "user": "vik",
+            "email": "viki@gmail.com",
+            "password": "$2y$10$s30H7AO9KWGfdw8szGoJuewcaFtUYU5tu9ouibjILuk\/iOXrIqOcK"
+        }
+    ]
+}
